@@ -6,9 +6,14 @@ public class Axis {
 
 	public static void main(String[] args) {
 	
+
 		Scanner sc=new Scanner(System.in);
 		System.out.println("ravi completed his work");
 		
+
+		System.out.println("hello world");
+		System.out.println("venkat done with his code");
+
 		String s="Greens Technology";
 		
 		String s1="greens technology";
