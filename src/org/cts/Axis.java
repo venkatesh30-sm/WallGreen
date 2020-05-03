@@ -4,6 +4,8 @@ public class Axis {
 
 	public static void main(String[] args) {
 	
+		System.out.println("hello world");
+		System.out.println("venkat done with his code");
 		String s="Greens Technology";
 		
 		String s1="greens technology";
